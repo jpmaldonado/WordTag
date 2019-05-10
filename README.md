@@ -4,4 +4,4 @@ Short script that breaks down a video in sentences (whenever enough silence betw
 
 Usage:
 
-`python cly.py video.mp4`
+`python cli.py video.mp4`
